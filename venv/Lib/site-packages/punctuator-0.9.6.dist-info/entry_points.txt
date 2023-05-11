@@ -1,0 +1,3 @@
+[console_scripts]
+punctuator.py = punctuator.punc:command_line_runner
+
